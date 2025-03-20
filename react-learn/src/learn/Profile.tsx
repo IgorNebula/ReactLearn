@@ -2,7 +2,7 @@ import Avatar from "./Avatar";
 
 export function Profile() {
     return (
-        <div>
+        <div style={{ background: 'black', padding: 20, color: 'white' }}>
             <Avatar
                 size={100}
                 person={{
