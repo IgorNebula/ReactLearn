@@ -1,15 +1,12 @@
 import './App.css';
-// import Greeting from './learn/component';
+
+import { Profile } from './learn/Profile';
 
 function App() {
 
-  // return (
-  //   <>
-  //     <Greeting name='Sara' />
-  //     <Greeting name='Cahal' />
-  //     <Greeting name='Edite' />
-  //   </>
-  // );
+  return (
+    <Profile></Profile>
+  );
 
 }
 
